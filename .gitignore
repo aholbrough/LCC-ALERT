@@ -1,0 +1,6 @@
+# Ignore packaged installer artifacts and local scratch files.
+*.pkg
+*.dmg
+*.app
+*.log
+.DS_Store
